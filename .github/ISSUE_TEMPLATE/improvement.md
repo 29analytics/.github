@@ -7,8 +7,8 @@ assignees: jorgeFedora
 
 ---
 
-# Descrição
+## Descrição
 Como essa parte do sistema está hoje e como você quer que fique?
 
-# Valor
+## Valor
 Como essa nova funcionalidade torna o sistema mais interessante?

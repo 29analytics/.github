@@ -3,7 +3,7 @@ name: New page
 about: 'Describe a new page to be added '
 title: ''
 labels: 'Priority: Medium, Type: New Page'
-assignees: jorgeFedora
+assignees: ''
 
 ---
 

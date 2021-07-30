@@ -3,7 +3,7 @@ name: Improvement
 about: Describe a small change that can't be called a new feature
 title: ''
 labels: 'Priority: Medium, Type: Improvement'
-assignees: jorgeFedora
+assignees: ''
 
 ---
 

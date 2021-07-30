@@ -8,11 +8,11 @@ assignees: jorgeFedora
 
 ---
 
-# Descrição
+## Descrição
 Que página precisa ser reestruturada? Como essa parte do sistema está hoje e como você quer que fique?
 
-# Inspirações
+## Inspirações
 Se houver, compartilhe alguma imagem ou algum site que faça algo parecido com o que está sendo proposto.
 
-# Valor
+## Valor
 Como essa nova funcionalidade torna o sistema mais interessante?

@@ -4,7 +4,7 @@ about: Describe a structural or visual change of the information displayed in th
   system
 title: ''
 labels: 'Priority: Medium, Type: Layout'
-assignees: jorgeFedora
+assignees: ''
 
 ---
 

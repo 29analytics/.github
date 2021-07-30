@@ -10,6 +10,9 @@ assignees: jorgeFedora
 ## Problema
 Uma descrição simples e concisa do problema encontrado.
 
+## Screenshots
+Se for o caso, adicionar screenshots que ajudem a entender o problema. No Github você pode fazer o upload de imagens diretamente com Ctrl+V.
+
 ## Reprodução
 Etapas para reproduzir o erro.
 
@@ -21,6 +24,3 @@ Etapas para reproduzir o erro.
 
 ## Comportamento esperado
 Em alguns casos o problema é óbvio, mas em outros é necessário descrever o que o sistema deveria fazer.
-
-# # Screenshots
-Se for o caso, adicionar screenshots que ajudem a entender o problema. No Github você pode fazer o upload de imagens diretamente com Ctrl+V.

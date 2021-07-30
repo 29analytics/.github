@@ -3,7 +3,7 @@ name: New component
 about: Describe a new chart or table on an existing page
 title: ''
 labels: 'Priority: Medium, Type: New Component'
-assignees: jorgeFedora
+assignees: ''
 
 ---
 

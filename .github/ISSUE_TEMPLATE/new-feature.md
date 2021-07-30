@@ -3,7 +3,7 @@ name: New feature
 about: Suggest an idea for this project
 title: ''
 labels: 'Priority: Medium, Type: New feature'
-assignees: jorgeFedora
+assignees: ''
 
 ---
 

@@ -7,10 +7,10 @@ assignees: jorgeFedora
 
 ---
 
-# Problema
+## Problema
 Uma descrição simples e concisa do problema encontrado.
 
-# Reprodução
+## Reprodução
 Etapas para reproduzir o erro.
 
 1. Vá até a página…
@@ -19,8 +19,8 @@ Etapas para reproduzir o erro.
 
 **Link:** URL da página com o problema, quando houver.
 
-# Comportamento esperado
+## Comportamento esperado
 Em alguns casos o problema é óbvio, mas em outros é necessário descrever o que o sistema deveria fazer.
 
-# Screenshots
+# # Screenshots
 Se for o caso, adicionar screenshots que ajudem a entender o problema. No Github você pode fazer o upload de imagens diretamente com Ctrl+V.

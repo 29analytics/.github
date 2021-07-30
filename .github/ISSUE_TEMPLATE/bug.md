@@ -3,7 +3,7 @@ name: Bug
 about: 'Some functionality is not working as it should '
 title: ''
 labels: 'Priority: Medium, Type: Bug'
-assignees: jorgeFedora
+assignees: ''
 
 ---
 
